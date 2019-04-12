@@ -18,7 +18,7 @@ die 740
 attack 729
 ): 723
 missed 705
-fuck 632
+butterfly 632
 hell 628
 unknown 612
 killed 600
@@ -30,7 +30,7 @@ lie 506
 sad 485
 poor 470
 conservative 469
-fucking 454
+butterflying 454
 sick 452
 joke 449
 :/ 440
